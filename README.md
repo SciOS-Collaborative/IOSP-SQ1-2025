@@ -1,5 +1,13 @@
 # IOSP-SQ1-2025
-The first ever gathering of the Institute of Open Science Practices. Here we use events to provide researchers with tools they need and tool builders with an understanding of why their tools aren't quite solving the problem. Together both groups will move forward. 
+Modern scientific workflows are heavily dependent on their technical infrastructure. While some infrastructures enable collaborative, open, and researcher-owned processes, others lead to vendor lock-in, isolated efforts, and restrictive capabilities.
+
+IOSP SQ1 2025 identified, highlighted, and expanded adoption of technical infrastructures that promote open practices across the entire pipeline of scientific discovery. From pre-registration and funding to collaborative methodologies, society administration, validation, and dissemination, IOSP guides researchers in using novel technologies for their participation in the conference. Following the conference, participants collaborate directly with the technicians developing these technologies to workshop advancements in scientific infrastructure.
+
+At IOSP ’25, we:
+- Heard from leading researchers about their experiences with both traditional and cutting edge infrastructure technology.
+- Engaged in workshops that explore emerging technologies and methodologies to streamline research workflows.
+- Collaborated directly with peers and infrastructure developers
+- Co-created a research environment guided by openness, accessibility, and the collective pursuit of knowledge.
 
 # Quick Links
 - [The Event Website](iosp.io)
