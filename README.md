@@ -19,7 +19,7 @@ Community Specific, Globally Interpretable: Extending the CODEX Protocol
 - [CODEX Protocol Documentation](https://codex.desci.com/)
 - [Notes](https://docs.google.com/document/d/1yl5d6V-IIeqfVyRPv9967xxn7S2cFYDcXecnzdGYW3s/edit?tab=t.0)
    
-Scaling Expertise with Automated Research Pipelines and AI AgentsSolutions for Data Gravity Workshop
+Scaling Expertise with Automated Research Pipelines and AI Agents
 - [Coordination.Network](https://www.coordination.network/)
 
 Solutions for Data Gravity
