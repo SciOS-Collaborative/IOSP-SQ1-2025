@@ -16,7 +16,7 @@ At IOSP ’25, we:
 - Shareable Output Document (being gathered)
 
 # Presentation Repository
-Released presentations (pending) and [transcripts](https://drive.google.com/drive/folders/17uH6ijdkZlcSVoiMmR_bTvo9HW0jheRT?usp=drive_link)
+Released presentations, gathered brainstorming sticky notes and other shared [resources]([https://drive.google.com/drive/folders/17uH6ijdkZlcSVoiMmR_bTvo9HW0jheRT?usp=drive_link](https://drive.google.com/drive/folders/165qRxe5OfdSg9yqkND2H9m5LY5usn-11))
 
 All of these presentations and recordings are released publically with consent of the authors to be used under the CC By licence which requires attribution to the original author. If using these presentations in any of your own work please respect the authors attribution request. 
 
@@ -29,6 +29,7 @@ Community Specific, Globally Interpretable: Extending the CODEX Protocol
    
 Scaling Expertise with Automated Research Pipelines and AI Agents
 - [Coordination.Network](https://www.coordination.network/)
+- [Co-created research pipelines](https://app.coord.dev/skills/4b46c8d6-4e7f-4f23-9c6b-9ea28052136a/versions/3cd2b345-35c1-4ba7-96ae-02c27f099ab0)
 
 Solutions for Data Gravity
 - [Repo of gathered papers](https://drive.google.com/drive/folders/1IveGZGEOTk2dCdKZJmlwG912N3ziDFi4?usp=drive_link)
